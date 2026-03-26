@@ -40,7 +40,7 @@
 アプリに関するご質問・ご要望・不具合の報告は、以下からお願いいたします。
 
 - [お問い合わせ・不具合報告フォーム（Google Form）](https://docs.google.com/forms/d/e/1FAIpQLSfgcahysBNjAx8jm7pRY1VY4tSyjrQ7Whgk58ALPm0OVMzqjw/viewform?usp=publish-editor)
-- [お問い合わせ・不具合報告（Issues）](../../issues)
+- [お問い合わせ・不具合報告（Issues）](https://github.com/knsi15/gakucale-support/issues)
 
 ## プライバシーポリシー
 
