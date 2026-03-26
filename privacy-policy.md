@@ -55,4 +55,5 @@
 
 本ポリシーに関するご質問やご意見がございましたら、以下までご連絡ください。
 
+- [お問い合わせフォーム（Google Form）](https://docs.google.com/forms/d/e/1FAIpQLSfgcahysBNjAx8jm7pRY1VY4tSyjrQ7Whgk58ALPm0OVMzqjw/viewform?usp=publish-editor)
 - GitHub: https://github.com/knsi15/gakushifu-support/issues
